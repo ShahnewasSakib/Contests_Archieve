@@ -1,4 +1,4 @@
-# VJudge Contest Archive
+# Contest Archive
 
 Archive of all contests organized by CUET CP Community.
 
